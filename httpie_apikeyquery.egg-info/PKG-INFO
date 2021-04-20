@@ -1,0 +1,15 @@
+Metadata-Version: 1.2
+Name: httpie-apikeyquery
+Version: 1.0.2
+Summary: ApiKeyQuery plugin for HTTPie.
+Home-page: https://github.com/codepope/httpie-apikeyquery
+Author: Dj Walker-Morgan
+Author-email: codepope@gmail.com
+License: BSD
+Download-URL: https://github.com/codepope/httpie-apikeyquery
+Description: httpie-apikeyquery
+        ==================
+        
+        For situations where the API key is passed as a parameter in the query.
+Platform: UNKNOWN
+Requires-Python: >=2.7.10

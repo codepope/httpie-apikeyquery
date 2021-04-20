@@ -1,0 +1,10 @@
+README.rst
+httpie_apikeyquery.py
+setup.py
+httpie_apikeyquery.egg-info/PKG-INFO
+httpie_apikeyquery.egg-info/SOURCES.txt
+httpie_apikeyquery.egg-info/dependency_links.txt
+httpie_apikeyquery.egg-info/entry_points.txt
+httpie_apikeyquery.egg-info/not-zip-safe
+httpie_apikeyquery.egg-info/requires.txt
+httpie_apikeyquery.egg-info/top_level.txt
