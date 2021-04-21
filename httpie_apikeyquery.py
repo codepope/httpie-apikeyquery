@@ -1,5 +1,10 @@
 """
 ApiKey in Query auth plugin for HTTPie.
+
+(C) Dj Walker-Morgan 2021
+
+Includes MIT licensed code from Colin Bounouar
+at https://github.com/Colin-b/requests_auth
 """
 from httpie.plugins import AuthPlugin
 import requests 
